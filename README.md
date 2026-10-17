@@ -39,8 +39,8 @@ LH-Pets/
 Pré-requisito: [.NET SDK 10](https://dotnet.microsoft.com/download) instalado.
 
 ```bash
-git clone https://github.com/<seu-usuario>/LH-Pets.git
-cd LH-Pets
+git clone https://github.com/dns-1337/LH-Pets-API.git
+cd LH-Pets-API
 dotnet run
 ```
 
